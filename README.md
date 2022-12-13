@@ -1,5 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
-
+## Description
+I changed and cleaned up the horriseon marketing site by changed some semantic elements and fixing the CSS.
+https://annabenari.github.io/module-1-challenge/
 ## Your Task
  
 **Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
